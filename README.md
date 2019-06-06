@@ -24,7 +24,7 @@
  - [Bootstrap.build](https://bootstrap.build/app) (you can practice by making a UChicago branded theme; see pages 38-41 of our [Identity Guidelines](https://news.uchicago.edu/sites/default/files/attachments/_uchicago.identity.guidelines.pdf))
  - Inspiration for picking your own fonts:
     - [Butterick's Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html)
-    - [Google Web Fonts](https://fonts.google.com/) and a few resources to [help](http://typ.io/libraries/google) [choose](http://femmebot.github.io/google-type/) [pairings](https://fontpair.co/)
+    - [Google Web Fonts](https://fonts.google.com/) and a few [resources](http://typ.io/libraries/google) to [help](http://femmebot.github.io/google-type/) choose [pairings](https://fontpair.co/)
 
 ## Connect the assets to your own projects in the future
 
